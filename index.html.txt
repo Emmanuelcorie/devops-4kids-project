@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My DevOps Website</title>
+</head>
+<body>
+  <h1>Hello AWS DevOps 🚀</h1>
+  <p>I built this like a boss.</p>
+</body>
+</html>
+
